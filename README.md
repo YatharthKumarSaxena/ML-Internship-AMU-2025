@@ -1,9 +1,14 @@
 # 🚀 Machine Learning Internship - Summer 2025
 
-> **🗓️ Start Date:** 9th June 2025  
-> **💻 Mode:** Online  
-> **⏳ Duration:** 6–8 Weeks  
-> **📘 Pre-requisite:** Basic Python Programming
+## 📚 Table of Contents
+
+- [📖 Introduction](#-introduction)
+- [📅 Duration & Mode](#-duration--mode)
+- [📌 What I Will Learn](#-what-i-will-learn)
+- [🧠 Mentor Profile](#-mentor-profile)
+- [🗂️ Folder Structure](#-folder-structure)
+- [🎯 Final Takeaway](#-final-takeaway)
+- [📬 Contact & Credits](#-contact--credits)
 
 ---
 
@@ -15,14 +20,12 @@ Whether you are a beginner or someone with some prior exposure, the program star
 
 ---
 
-## 📚 Table of Contents
+## 📅 **Duration & Mode**
 
-- [📖 Introduction](#-introduction)
-- [📌 Internship Highlights](#-internship-highlights)
-- [📅 Duration & Mode](#-duration--mode)
-- [🧠 Mentor Details](#-mentor-details)
-- [🏅 Certification](#-certification)
-- [📬 Contact & Credits](#-contact--credits)
+> **🗓️ Start Date:** 9th June 2025  
+> **💻 Mode:** Online  
+> **⏳ Duration:** 6–8 Weeks  
+> **📘 Pre-requisite:** Basic Python Programming
 
 ---
 
@@ -49,7 +52,7 @@ _Interdisciplinary Centre for Artificial Intelligence_
 
 ---
 
-## 🗂️ Folder Structure
+## 🗂️ **Folder Structure**
 
 > The repository will gradually include weekly folders (Week-1, Week-2, etc.), containing:
 
@@ -79,3 +82,4 @@ For any official communication or internship-related queries, kindly reach out t
 
 - 🏫 Organized by: **Engineering Design & Implementation Club (EDIC), AMU**
 
+---
