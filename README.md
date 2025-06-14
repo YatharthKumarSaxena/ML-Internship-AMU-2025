@@ -15,6 +15,17 @@ Whether you are a beginner or someone with some prior exposure, the program star
 
 ---
 
+## 📚 Table of Contents
+
+- [📖 Introduction](#-introduction)
+- [📌 Internship Highlights](#-internship-highlights)
+- [📅 Duration & Mode](#-duration--mode)
+- [🧠 Mentor Details](#-mentor-details)
+- [🏅 Certification](#-certification)
+- [📬 Contact & Credits](#-contact--credits)
+
+---
+
 ## 🧠 **What I Will Learn**
 
 - 🌱 Foundations of Machine Learning  
